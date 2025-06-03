@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi You  👋
 
-<!--
-**Asha47i/asha47i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Asha Hamda
 
-Here are some ideas to get you started:
+I’m a curious data scientist who loves learning new things.  
+Passionate about using data to make a positive impact, and doing everything with kindness and purpose. 💡❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Stay hungry. Stay foolish.” – Steve Jobs
+
+---
+
+✨ Always eager to grow and explore new ideas!  
+🔍 Data analysis | 📊 Visualization | 🤝 Mentorship | 🌱 Continuous learning
+
+Feel free to connect or check out my projects! 🚀
