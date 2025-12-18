@@ -10,6 +10,6 @@ I’m passionate about using my data skills to make a difference <3
 ---
 Let's connect 👀 
 
-- Note: I mostly use private repo :)
+- Note: I mostly use a private acc :)
 
 
